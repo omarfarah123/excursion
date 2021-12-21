@@ -21,3 +21,10 @@ p {
 #phoneicon {
     position: relative;
 }
+a:visited {
+    color: aquamarine;
+}
+footer {
+    text-align: right;
+    color: gray;
+}
