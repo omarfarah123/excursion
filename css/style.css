@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+header, h1 {
+    font-size: 50px;
+    font-weight: normal;
+    font-family: Helvetica;
+    color: white;
+}
+.download {
+    font-family: Helvetica;
+    color: rgb(127, 225, 255);
+    font-size: 16px;
+}
+p {
+    font-family: verdana;
+    color: gray;
+    font-size: 21px;
+}
+#phoneicon {
+    position: relative;
+}
